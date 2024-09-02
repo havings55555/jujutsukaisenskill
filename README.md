@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>술식정보종합</title>
     <style>
         #header h1 {color: red;}
     </style>
